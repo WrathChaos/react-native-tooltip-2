@@ -77,6 +77,7 @@ export type TooltipProps = typeof Tooltip.defaultProps & {
   placement?: Placement;
   displayInsets?: PlacementType;
   style?: StyleProp<ViewStyle>;
+  contentStyle?: StyleProp<ViewStyle>;
   backgroundStyle?: StyleProp<ViewStyle>;
   parentWrapperStyle?: StyleProp<ViewStyle>;
   childrenWrapperStyle?: StyleProp<ViewStyle>;

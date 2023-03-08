@@ -38,7 +38,6 @@ import Tooltip from "react-native-tooltip-2";
     isVisible={toolTipVisible}
     content={<Text>Check this out!</Text>}
     placement={Placement.TOP}
-    backgroundStyle={{backgroundColor: 'transparent'}}
     onClose={() => setToolTipVisible(false)}>
     <Pressable
         style={styles.button}
