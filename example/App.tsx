@@ -1,7 +1,6 @@
 import React from 'react';
 import {Text, View, StyleSheet, Pressable} from 'react-native';
-// import Tooltip from 'react-native-tooltip-2';
-import Tooltip, {Placement} from './build/dist';
+import Tooltip, {Placement} from 'react-native-tooltip-2';
 
 const App: React.FC = () => {
   const [toolTipVisible, setToolTipVisible] = React.useState(false);

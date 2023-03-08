@@ -5757,7 +5757,7 @@
     "shell-quote" "^1.6.1"
     "ws" "^7"
 
-"react-fast-compare@^3.2.0":
+"react-fast-compare@^3.2.0", "react-fast-compare@>= 3.2.0":
   "integrity" "sha512-rtGImPZ0YyLrscKI9xTpV8psd6I8VAtjKCzQDlzyDvqJA8XOW78TXYQwNRNd8g8JZnDu8q9Fu/1v4HPAVwVdHA=="
   "resolved" "https://registry.npmjs.org/react-fast-compare/-/react-fast-compare-3.2.0.tgz"
   "version" "3.2.0"
@@ -5791,6 +5791,13 @@
   "integrity" "sha512-H2BjG2zk7B7Wii9sXvd9qhCVRQYDAHSWdMw9tscmZBqSP62DkIWEQSk4/B2GhQ4aK9ydVXgtqR6tBeg3yy8TSA=="
   "resolved" "https://registry.npmjs.org/react-native-gradle-plugin/-/react-native-gradle-plugin-0.71.16.tgz"
   "version" "0.71.16"
+
+"react-native-tooltip-2@^0.1.0":
+  "integrity" "sha512-C+jNIWOVdCNaPODT8Uijl9TSHEfbYd8IWVxfBRio2y+E9FaI57hK5AqxLN4RE0I+GQzsmqMEmg4Y2ePthT0CDA=="
+  "resolved" "https://registry.npmjs.org/react-native-tooltip-2/-/react-native-tooltip-2-0.1.0.tgz"
+  "version" "0.1.0"
+  dependencies:
+    "react-fast-compare" ">= 3.2.0"
 
 "react-native@0.71.4":
   "integrity" "sha512-3hSYqvWrOdKhpV3HpEKp1/CkWx8Sr/N/miCrmUIAsVTSJUR7JW0VvIsrV9urDhUj/s6v2WF4n7qIEEJsmTCrPw=="
