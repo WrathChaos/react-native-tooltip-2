@@ -1,4 +1,21 @@
-import Text from "./FunctionalComponent/Text";
-import { Hello } from "./StateFulComponent/Hello";
+export { default } from "./Tooltip";
 
-export { Text, Hello };
+export { Placement } from "./Tooltip.type";
+export type {
+  RectType,
+  GeometryType,
+  PlacementType,
+  PlacementStyle,
+} from "./Tooltip.type";
+export {
+  Point,
+  Size,
+  Rect,
+  swapSizeDimensions,
+  makeChildlessRect,
+  computeCenterGeometry,
+  computeTopGeometry,
+  computeBottomGeometry,
+  computeLeftGeometry,
+  computeRightGeometry,
+} from "./geometry";
