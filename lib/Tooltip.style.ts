@@ -28,7 +28,7 @@ const styles = StyleSheet.create({
     },
   },
   content: {
-    borderRadius: 4,
+    borderRadius: 12,
     padding: 8,
     backgroundColor: "#fff",
     overflow: "hidden",
