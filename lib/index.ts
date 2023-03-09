@@ -1,4 +1,5 @@
-export { default } from "./Tooltip";
+export { default, TooltipChildrenContext } from "./Tooltip";
+export type { TooltipProps } from "./Tooltip";
 
 export { Placement } from "./Tooltip.type";
 export type {
