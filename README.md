@@ -12,7 +12,9 @@
 
 <p align="center">
   <img alt="React Native Tooltip 2"
-        src="assets/Screenshots/typescript.jpg" />
+        src="assets/Screenshots/react-native-tooltip-2-email.png" />
+  <img alt="React Native Tooltip 2"
+    src="assets/Screenshots/react-native-tooltip-2-password.png" />
 </p>
 
 # Installation
